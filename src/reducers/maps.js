@@ -36,7 +36,7 @@ const reducers = {
         ...annotationList,
         {
           ...annotation,
-          id: annotationList.length,
+          id: `a${new Date().getTime()}`,
         },
       ],
     };

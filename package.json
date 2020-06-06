@@ -19,7 +19,7 @@
     "node": "10.15.3"
   },
   "dependencies": {
-    "acorn": "6.1.0",
+    "acorn": "6.4.1",
     "ajv": "6.9.1",
     "babel-core": "6.26.3",
     "babel-plugin-ramda": "1.6.2",
